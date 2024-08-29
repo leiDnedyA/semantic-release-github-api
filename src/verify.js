@@ -1,5 +1,3 @@
-const AggregateError = require("aggregate-error");
-
 class MissingGitHubRepoUrlError extends Error {
   constructor() {
     super("Missing 'APP_REPO_URL' environment variable.");

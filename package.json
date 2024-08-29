@@ -1,12 +1,12 @@
 {
-  "name": "semantic-release-to-json",
+  "name": "semantic-release-github-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ayden Diel",
   "license": "ISC",
   "description": ""
 }
